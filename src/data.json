@@ -1,0 +1,365 @@
+{
+    "options": {
+        "foreignLanguage": {
+            "lang": "en-US"
+        },
+        "nativeLanguage": {
+            "lang": "ru-RU"
+        }
+    },
+    "cards": [
+        {
+            "foreignLanguage": "mindfulness",
+            "partOfSpeech": "noun",
+            "definition": "concentrating on the present moment",
+            "examples": [
+                "their mindfulness of the wider cinematic tradition."
+            ], 
+            "nativeLanguage": [
+                "внимательность"
+            ],
+            "phonics": {
+                "en_US": "ˈmaɪnd.fəl.nəs",
+                "en_UK": "ˈmaɪnd.fəl.nəs"
+            },
+            "options": {
+                "ignore": false
+            }
+        },
+        {
+            "foreignLanguage": "assess",
+            "partOfSpeech": "verb",
+            "definition": "evaluate or estimate the nature, ability, or quality of.",
+            "examples": [
+                "the committee must assess the relative importance of the issues"
+            ], 
+            "nativeLanguage": [
+                "оценить"
+            ],
+            "phonics": {
+                "en_US": "əˈses",
+                "en_UK": "əˈses"
+            },
+            "options": {
+                "ignore": false
+            }
+        },        
+        {
+            "foreignLanguage": "appraise",
+            "partOfSpeech": "verb",
+            "definition": "assess the value or quality of.",
+            "examples": [
+                "the interviewer's job is to appraise and evaluate"
+            ], 
+            "nativeLanguage": [
+                "оценить"
+            ],
+            "phonics": {
+                "en_US": "əˈpreɪz",
+                "en_UK": "əˈpreɪz"
+            },
+            "options": {
+                "ignore": false
+            }
+        },
+        {
+            "foreignLanguage": "be on edge",
+            "partOfSpeech": "idiomatic",
+            "definition": "be nervous and easily disturbed.",
+            "examples": [], 
+            "nativeLanguage": [
+                "быть на грани"
+            ],
+            "options": {
+                "ignore": false
+            }
+        },
+        {
+            "foreignLanguage": "fly off the handle",
+            "partOfSpeech": "idiomatic",
+            "definition": "lose your temper.",
+            "examples": [], 
+            "nativeLanguage": [
+                "срываться"
+            ],
+            "options": {
+                "ignore": false
+            }
+        },
+        {
+            "foreignLanguage": "be short with",
+            "partOfSpeech": "other",
+            "definition": "be bad-tempered or impatient with someone.",
+            "examples": [], 
+            "nativeLanguage": [
+                "быть грубым с"
+            ],
+            "options": {
+                "ignore": false
+            }
+        },
+        {
+            "foreignLanguage": "have on your plate",
+            "partOfSpeech": "idiomatic",
+            "definition": "have a workload already underway.",
+            "examples": [], 
+            "nativeLanguage": [
+                "быть перегруженным"
+            ],
+            "options": {
+                "ignore": false
+            }
+        },
+        {
+            "foreignLanguage": "take up",
+            "partOfSpeech": "verb",
+            "definition": "occupy.",
+            "examples": [
+                "she took up tennis at the age of 11",
+                "he left to take up an appointment as a missionary",
+                "most residents took up the offer of refurbished equipment"
+            ], 
+            "nativeLanguage": [
+                "занимать",
+                "завладевать"
+            ],
+            "options": {
+                "ignore": false
+            }
+        },
+        {
+            "foreignLanguage": "run like clockwork",
+            "partOfSpeech": "idiomatic",
+            "definition": "happen according to plan, without difficulties or problems.",
+            "examples": [], 
+            "nativeLanguage": [
+                "работать как часы"
+            ],
+            "options": {
+                "ignore": false
+            }
+        },
+        {
+            "foreignLanguage": "turn back time",
+            "partOfSpeech": "idiomatic",
+            "definition": "recreate, imagine, or remember things as they were at an earlier time.",
+            "examples": [],  
+            "nativeLanguage": [
+                "повернуть время вспять"
+            ],
+            "options": {
+                "ignore": false
+            }
+        },
+        {
+            "foreignLanguage": "in the nick of time",
+            "partOfSpeech": "idiomatic",
+            "definition": "at the very last moment.",
+            "examples": [
+                "the rescue came in the nick of time"
+            ],     
+            "nativeLanguage": [
+                "как раз вовремя"
+            ],
+            "options": {
+                "ignore": false
+            }
+        },
+        {
+            "foreignLanguage": "downtime",
+            "partOfSpeech": "noun",
+            "definition": "the time when someone isn't working and is able to relax.",
+            "examples": [
+                "everyone needs downtime to unwind"
+            ],    
+            "nativeLanguage": [
+                "время простоя"
+            ],
+            "options": {
+                "ignore": true
+            }
+        },
+        {
+            "foreignLanguage": "enhance",
+            "partOfSpeech": "verb",
+            "definition": "intensify, increase, or further improve the quality, value, or extent of.",
+            "examples": [
+                "his refusal does nothing to enhance his reputation"
+            ],    
+            "nativeLanguage": [
+                "усиливать",
+                "повышать",
+                "увеличивать",
+                "совершенствовать"
+            ],
+            "options": {
+                "ignore": true
+            }
+        },
+        {
+            "foreignLanguage": "boost",
+            "partOfSpeech": "verb",
+            "definition": "help or encourage (something) to increase or improve.",
+            "examples": [
+                "a range of measures to boost tourism"
+            ],    
+            "nativeLanguage": [
+                "способствовать росту",
+                "повышать"
+            ],
+            "options": {
+                "ignore": true
+            }
+        },
+        {
+            "foreignLanguage": "boost",
+            "partOfSpeech": "noun",
+            "definition": "a source of help or encouragement leading to increase or improvement.",
+            "examples": [
+                "the cut in interest rates will give a further boost to the economy"
+            ],    
+            "nativeLanguage": [
+                "поддержка",
+                "ускорение"
+            ],
+            "options": {
+                "ignore": true
+            }
+        },
+        {
+            "foreignLanguage": "commitment",
+            "partOfSpeech": "noun",
+            "definition": "the state or quality of being dedicated to a cause, activity, etc.",
+            "examples": [
+                "the company's commitment to quality"
+            ],    
+            "nativeLanguage": [
+                "обязательство"
+            ],
+            "options": {
+                "ignore": true
+            }
+        },
+        {
+            "foreignLanguage": "accountability",
+            "partOfSpeech": "noun",
+            "definition": "the fact or condition of being accountable; responsibility.",
+            "examples": [
+                "their lack of accountability has corroded public respect"
+            ],    
+            "nativeLanguage": [
+                "ответственность"
+            ],
+            "phonics": {
+                "en_US": "əˌkaʊn.t̬əˈbɪl.ə.t̬i",
+                "en_UK": "əˌkaʊn.təˈbɪl.ə.ti"
+            },
+            "options": {
+                "ignore": false
+            }
+        },
+        {
+            "foreignLanguage": "cohesion",
+            "partOfSpeech": "noun",
+            "definition": "the action or fact of forming a united whole.",
+            "examples": [
+                "the work at present lacks cohesion"
+            ],    
+            "nativeLanguage": [
+                "сплоченность"
+            ],
+            "phonics": {
+                "en_US": "koʊˈhiː.ʒən",
+                "en_UK": "kəʊˈhiː.ʒən"
+            },
+            "options": {
+                "ignore": false
+            }
+        },
+        {
+            "foreignLanguage": "integrity",
+            "partOfSpeech": "noun",
+            "definition": "the quality of being honest and having strong moral principles; moral uprightness.",
+            "examples": [
+                "he is known to be a man of integrity"
+            ],    
+            "nativeLanguage": [
+                "честность"
+            ],
+            "options": {
+                "ignore": true
+            }
+        },
+        {
+            "foreignLanguage": "integrity",
+            "partOfSpeech": "noun",
+            "definition": "the state of being whole and undivided.",
+            "examples": [
+                "upholding territorial integrity and national sovereignty"
+            ],    
+            "nativeLanguage": [
+                "целостность"
+            ],
+            "options": {
+                "ignore": true
+            }
+        },
+        {
+            "foreignLanguage": "align",
+            "partOfSpeech": "verb",
+            "definition": "place or arrange (things) in a straight line.",
+            "examples": [
+                "gently brush the surface to align the fibers"
+            ],    
+            "nativeLanguage": [
+                "выровнять"
+            ],
+            "options": {
+                "ignore": true
+            }
+        },
+        {
+            "foreignLanguage": "appropriate",
+            "partOfSpeech": "adjective",
+            "definition": "suitable for the occasion.",
+            "examples": [
+                "a measure appropriate to a wartime economy"
+            ],    
+            "nativeLanguage": [
+                "соответствующий",
+                "подходящий"
+            ],
+            "options": {
+                "ignore": true
+            }
+        },
+        {
+            "foreignLanguage": "time off",
+            "partOfSpeech": "noun",
+            "definition": "time for rest or recreation away from one's usual work or studies.",
+            "examples": [
+                "we're too busy to take time off"
+            ],    
+            "nativeLanguage": [
+                "свободное от работы или учёбы время"
+            ],
+            "options": {
+                "ignore": true
+            }
+        },
+        {
+            "foreignLanguage": "reschedule",
+            "partOfSpeech": "verb",
+            "definition": "change the day and time.",
+            "examples": [
+                "the concert has been rescheduled for September"
+            ],    
+            "nativeLanguage": [
+                "перенести"
+            ],
+            "options": {
+                "ignore": true
+            }
+        }
+    ]
+}

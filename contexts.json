@@ -1,0 +1,55 @@
+{
+    "description": "Source code generation of React's state, context, context provider and context builder for the given types.",
+    "options": {
+        "majorVersion": {
+            "react-router-dom": 6 
+        }
+    },
+    "types": [
+        {
+            "disable": false,
+            "disableContextBuilder": false,
+            "description": "The application state properties.",
+            "name": "App",
+            "props": [
+                { "name": "started", "type": "boolean", "isOptional": false, "defaultValue": false, "shouldUpdateLocation": false },
+                { "name": "index", "type": "number", "isOptional": false, "defaultValue": 0, "shouldUpdateLocation": true }
+            ]
+        },
+        {
+            "disable": false,
+            "disableContextBuilder": false,
+            "description": "The data source state properties.",
+            "name": "DataSource",
+            "props": [
+                { "name": "rawData", "type": "string", "isOptional": false, "defaultValue": "{}", "shouldUpdateLocation": false },
+                { "name": "isValid", "type": "boolean", "isOptional": false, "defaultValue": true, "shouldUpdateLocation": false },
+                { "name": "error", "type": "string", "isOptional": false, "defaultValue": "", "shouldUpdateLocation": false },
+                { "name": "foreignLanguageVoiceName", "type": "string", "isOptional": false, "defaultValue": "", "shouldUpdateLocation": false },
+                { "name": "nativeLanguageVoiceName", "type": "string", "isOptional": false, "defaultValue": "", "shouldUpdateLocation": false },
+                { "name": "cards", "type": "any[]", "isOptional": false, "defaultValue": [], "shouldUpdateLocation": false }
+            ]
+        },
+        {
+            "disable": false,
+            "disableContextBuilder": false,
+            "description": "The widget state properties. A Widget can be put into the given HTML document placeholder. This is a wrapper for any component.",
+            "name": "Widget",
+            "props": [
+            ],
+            "contextBuilder": {
+                "imports": [
+                    "import Widget from '../components/Widget';"
+                ],
+                "props": [
+                    { "name": "container", "type": "Element | null", "isOptional": true, "shouldUpdateLocation": false }
+                ],
+                "contextProviderContent": [
+                    "<Widget container={container}>",
+                    "    {children}",
+                    "</Widget>"
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,16 @@
+.SoureViewer-content {
+    margin: 0 1em 0 0.5em;
+}
+
+.SoureViewer-content textarea {
+    resize: none;
+    width: 100%;
+}
+
+.SoureViewer-content.SoureViewer-content-invalid textarea {
+    border: 1px solid red;
+}
+
+.SoureViewer-content .SoureViewer-error {
+    color: red;
+}

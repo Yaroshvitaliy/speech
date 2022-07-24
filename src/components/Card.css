@@ -1,0 +1,29 @@
+.Card-content .Card-row {
+    display: flex;
+    justify-content: center;
+}
+
+.Card-content .Card-col {
+    padding: 0 2em 0 2em;
+}
+
+.Card-content ul {
+    padding: 0;
+}
+
+.Card-content ul {
+    list-style-type: none;
+}
+
+.Phonic-Content .Phonic-lang::after {
+    content: ':';
+    margin-right: 1em;
+}
+
+.Phonic-Content .Phonic-phonic::before, .Phonic-Content .Phonic-phonic::after {
+    content: '/';
+}
+
+.NativeLanguage-content, .Example-content {
+    margin-bottom: 1em;
+}

@@ -1,0 +1,39 @@
+.ControlPanel-row {
+    display: flex;
+    justify-content: center;
+}
+
+.ControlPanel-col + .ControlPanel-col {
+    margin-left: 1em;
+}
+
+.VoiceSwitcher-content h4 {
+    color: #e3e3e3;
+}
+
+.ControlPanel-button {
+    width: 4em;
+}
+
+.ControlPanel-button-prev-card {
+    margin-right: 4em;
+    width: 2em;
+}
+
+
+.ControlPanel-button-next-card {
+    margin-left: 4em;
+    width: 2em;
+}
+
+.VoiceSwitcher-content h4 {
+    margin-bottom: 0.25em;
+}
+
+.VoiceSwitcher-content select {
+    width: 20vh;
+}
+
+.VoiceSwitcher-content select option.noteligible {
+    color: gray;
+}
